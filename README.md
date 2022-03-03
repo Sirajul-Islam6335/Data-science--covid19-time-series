@@ -1,16 +1,16 @@
 # Data-science--covid19-time-series
 
 
-# Data-science-portfolio
-The Repository is represent my portfolio of data science project. I  completed this project in internship hour at Datamites.
-
 ## Instructions for Running Python Notebooks Locally
 
-1. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
-2. Use Google colab
+1. Use Google colab
+2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+#### Jupyter notebook Fbprohet installation 
+!conda install -c conda-forge fbprophet -y
 
-## Project
-### Covid 19(Time Series analysis)
+
+
+
 #### Target of Model:
 The time series dependent facebook prophet model is used to fit the data and provide future predictions. This model aimed to determine the pandemic prediction of COVID-19 in Several countries, using the Time Series Analysis to observe and predict the coronavirus pandemic’s spread daily or weekly.
 
