@@ -5,9 +5,9 @@
 
 1. Use Google colab
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
-#### Jupyter notebook Fbprohet installation 
-!conda install -c conda-forge fbprophet -y
-
+## Jupyter notebook Fbprophet installation 
+ * !conda install -c conda-forge fbprophet -y
+ * !pip install prophet
 
 
 
