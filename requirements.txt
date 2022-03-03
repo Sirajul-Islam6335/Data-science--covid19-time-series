@@ -1,0 +1,5 @@
+pyhton --version 3.8.8
+!pip install fbprophet
+!pip install prophet
+!conda install -c conda-forge fbprophet -y
+!pip install --upgrade plotly
