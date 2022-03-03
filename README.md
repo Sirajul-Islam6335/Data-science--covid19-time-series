@@ -3,8 +3,10 @@
 
 ## Instructions for Running Python Notebooks Locally
 
-1. Use Google colab
-2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+1. requirements.txt
+2. Use Google colab
+3. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+
 ## Jupyter notebook Fbprophet installation 
  * !conda install -c conda-forge fbprophet -y
  * !pip install prophet
